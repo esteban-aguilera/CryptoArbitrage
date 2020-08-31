@@ -6,8 +6,6 @@ import time
 from crypto_arbitrage.detector import arbitrage_opportunity
 from crypto_arbitrage.communicator import arbitrage_msg, send_email
 
-import secrets
-
 
 # --------------------------------------------------------------------------------
 # environment variables
